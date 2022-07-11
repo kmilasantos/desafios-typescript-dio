@@ -1,0 +1,31 @@
+{
+  "name": "desafios",
+  "version": "1.0.0",
+  "description": "Desafios da aula Introdução Prática ao TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmilasantos/desafios-typescrip.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "author": "Camila Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmilasantos/desafios-typescrip/issues"
+  },
+  "homepage": "https://github.com/kmilasantos/desafios-typescrip#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
