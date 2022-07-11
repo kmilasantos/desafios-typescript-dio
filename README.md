@@ -1,2 +1,3 @@
-# desafios-typescrip
-Desafios básicos de TypeScript para adquirir noções suficientes da ferramenta e seu uso no dia-a-dia.
+Soluções dos desafios propostos na aula **Introdução Prática ao TypeScript** do Modúlo II.
+
+###### <p>Santander Bootcamp Fullstack Developer da DIO</p>
